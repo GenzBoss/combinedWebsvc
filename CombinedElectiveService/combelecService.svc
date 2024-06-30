@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="CombinedElectiveService.Service1" CodeBehind="combelecService.svc.cs" %>
